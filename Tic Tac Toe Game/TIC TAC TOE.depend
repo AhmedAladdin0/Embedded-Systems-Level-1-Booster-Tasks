@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1630934553 source:c:\users\medom\desktop\tic tac toe\main.c
+	<stdio.h>
+	<stdlib.h>
+
