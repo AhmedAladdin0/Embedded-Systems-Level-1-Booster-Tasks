@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1631592817 source:c:\users\medom\desktop\searching algorithm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"typedef.h"
+
+1631581871 c:\users\medom\desktop\searching algorithm\typedef.h
+
