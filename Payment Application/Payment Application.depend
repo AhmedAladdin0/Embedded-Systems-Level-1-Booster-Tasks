@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1632860503 source:c:\users\medom\desktop\payment application\main.c
+	<stdio.h>
+	<stdlib.h>
+	"typedef.h"
+
+1632201646 c:\users\medom\desktop\payment application\typedef.h
+
