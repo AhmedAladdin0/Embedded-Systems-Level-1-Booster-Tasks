@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1631593366 source:c:\users\medom\desktop\implement your own stack\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<limits.h>
+	"typedef.h"
+
+1631581755 c:\users\medom\desktop\implement your own stack\typedef.h
+
+1634767987 source:c:\users\medom\desktop\2# implement your own stack\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<limits.h>
+	"typedef.h"
+
+1631581755 c:\users\medom\desktop\2# implement your own stack\typedef.h
+
+1634846198 source:c:\users\medom\desktop\booster 1 embedded system\tasks\2# implement your own stack (modified)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<limits.h>
+	"typedef.h"
+
+1631581755 c:\users\medom\desktop\booster 1 embedded system\tasks\2# implement your own stack (modified)\typedef.h
+
